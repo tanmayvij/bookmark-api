@@ -1,0 +1,6 @@
+{
+    "db": {
+        "uri": "mongodb+srv://tanmay:mongo@cluster0-bjv6l.mongodb.net/bookmark-api"
+    },
+    "devPort": 3000
+}

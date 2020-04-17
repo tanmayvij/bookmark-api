@@ -1,0 +1,20 @@
+{
+    "name": "bookmark-api",
+    "description": "Backend API for a bookmarking application as an assignment for Triveous.",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tanmayvij/bookmark-api"
+    },
+    "license": "ISC",
+    "author": "Tanmay Vij",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "express": "^4.17.1",
+        "mongoose": "^5.9.9"
+    }
+}
